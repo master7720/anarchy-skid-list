@@ -2,6 +2,8 @@
 I made this as least bias as I can & if I have missed anyone please make a pr, & I will review it.
 
 # Noobs
+travis - the best to ever do it
+
 Gerald0mc - Use to be a skid but is now a professional at north korean code.
 
 Listed - Semi skidder/Scuffed at custom code & big ego but is ""baiting"".
