@@ -4,7 +4,7 @@ I made this as least bias as I can & if I have missed anyone please make a pr, &
 # Noobs
 travis - the best to ever do it
 
-Gerald0mc - Used to be a skid (FloatUtils go hard) but is now a professional at north korean code. Skids killaura 💀.
+Gerald0mc - Used to be a skid (FloatUtils go hard) but is now a professional at north korean code.
 
 Listed - Semi skidder/Scuffed at custom code & big ego but is ""baiting"".
 
@@ -73,6 +73,8 @@ p4nda - Beaner 13 year old who made about half a dozen clients which are dogshit
 GL_DONT_CARE - Steals Future code for a living, any code that he "writes" is dogshit and breaks his client (keep this man far away from new konas base, let auto rewrite that shit). Doxes people who crack his client. Spams chat with unfunny memes and cannot win an arguement if his life depended on it. Also pastes modules from open source clients, refuses to credit, tries to dox instead, and fails at that.
 
 iBikky - Australian who pastes oyvey for a living, say that his coords exploit is powerful and shit when its actually a dogshit Command.sendMessage from OyVey, paste github's bowbomb and said that he never paste shit. 
+
+Innards - "pro dev" who skids Killaura (💀) and calls competent devs garbage
 
 ---
 
