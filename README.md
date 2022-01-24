@@ -20,11 +20,11 @@ ProfKambing - (Unironically 12 yr) That loves to rename strings & act like a sca
 
 SSLWasTaken - Pro kami5/Phobos editor/Renamer.
 
-_Fxcte - Pro at OyVey editing.
+\_Fxcte - Pro at OyVey editing.
 
 KuroHere - 30 clients into 1 with KuroHack.
 
-Luscius - Fetish for w+2.
+Luscius - Fetish for wurst+2.
 
 Noatmc - Another north korean coder (He's actually learning & improving tho unlike everyone else).
 
@@ -36,7 +36,7 @@ pauI - "pro" Java "dev" (Doesn't even know what a "Short" is).
 
 Primooctopus33 - Claims OctoHack's "good" modules are custom then instantly once it's leaked admits it's all skidded (Definition of sad wants to look like a cool coder/hacker).
 
-Wolfsurge - North korean coder.
+Wolfsurge - North korean coder. Claims to credit people if he uses their code, but skidded LiquidBounce's custom font renderer (which is under GPL-3.0 btw)
 
 HausemasterIssue - Can't make 1 line of custom code & 50 clients into 1 with SpiderSense.
 
@@ -44,17 +44,17 @@ zPrestige_ - Mega OyVey fetish & his prestige base is so bad my god.
 
 2b2tbuilder/DerpyJibs - Femboy & north korean coder.
 
-ObsidianBreaker/accessmodifier364 - Fetish for w+2 (This was awhile ago tho, so he might actually be able to code now).
+ObsidianBreaker/accessmodifier364 - Fetish for wurst+2 (This was awhile ago though, so he might actually be able to code now).
 
-Catuquei - OyVey Fetish. (Starting to see a pattern with pvpers and them "coding" new clients).
+Catuquei - OyVey Fetish. (Starting to see a pattern with pvpers and them ~~skidding and pasting into an oyvey base~~ "coding" new clients).
 
-0x22 - Pasted his entire client "Future" from Exeter. It seems he has become a much better developer now, but his client still contains uses old ass Exeter code that he refuses to rewrite. (just look at the gui 💀)
+0x22 - Pasted his entire client "Future" from Exeter. It seems he has become a much better developer now, but his client still contains uses old ass Exeter code that he refuses to rewrite. (just look at the gui 💀) He also buys exploits to put into Future.
 
 Hqrion - Got recognition for making the leaked 1.7.2 phobos buildable. Turns out, it was completely done by his friend Ciruu, and the "SRC" was crashing useless garbage.
 
 Ciruu - Made quite possible the most skidded kami skid to ever exist, "Zispanos Backdoor" back in the day. Now he spends his time on his exit scam, "Abyss" and pasting phobos and summit.
 
-Sjnez - OyVey/Phobos fetish, Skidded just about any client in order to make "Renosense". Pasted salhack PacketEvent and event bus for one module even though his phobos base already had thoes 💀.
+Sjnez - OyVey/Phobos fetish, Skidded just about any client in order to make "Renosense". Pasted salhack PacketEvent and event bus for one module even though his phobos base already had one 💀.
 
 Es0teric - Oyvey/Phobos paster, made Gondal.club
 
@@ -67,3 +67,7 @@ RageMachine/ManOnTheMoon - Retarded wannabe developer (yet refuses to properly l
 Hollow - Incel that seems to somewhat know Java, yet their client "Trollgod" is worthless, phobos-pasted garbage.
 
 Chardn0l - Reps trollgod like he's the best client, deep throats hollows dong, and larps about being a gangster, even though we all know he's a skinny white incel that gets bullied at school.
+
+---
+
+If you are on this list and come crying into the issue or pull requests tab, you're just proving your skid-ness (thats not even a word)
