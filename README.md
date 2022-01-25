@@ -95,6 +95,8 @@ Gopro336 - Mediocre coder that went from complete rando to a big namer by leachi
 
 0iMax/mmmax - Developer that makes meh code. He isnt a skid, but he makes mid clients that nobody uses. In his latest project, "Raven" he found a skid named Fe, to be the face of the client. Then He proceded to spend months creating a dog client only for it to never be used. Beta testers never got to use the client, and Max quit. Max later said that he was tricked by Fe, who said he could code when he could not. (I could have told you that 😂💀).
 
+earthquake - Actually a very good developer, Creator of phobos/earthhack. Skidded kami at first, and then moved on to skiding Seppuku, and Exeter for the gui. Makes decent modules, and has improved lots. 3arthhck 1.3.1's code is suprisingly good, and is very overbuilt (I do kinda get Exeter vibes from it tho).
+
 ---
 
 If you are on this list and come crying into the issue or pull requests tab, you're just proving your skid-ness (thats not even a word)
