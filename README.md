@@ -2,15 +2,15 @@
 I made this as least bias as I can & if I have missed anyone please make a pr, & I will review it.
 
 # Noobs
-gopro336 - dumb skid who cant code and makes "buildable sources" to get the nns to feed his ego,,,,
+GoPro336 - Dumb skid who can't code and makes "buildable sources" to get the nns to feed his ego.
 
-redd - massive skid who asked me to setup a rat and then raged and threatened to report me to the police when i made it to send to 2 webhooks when he tested it 😂😂😂😂 (also a fake swiper who flexes 1s)
+Redd - Massive skid who asked mmmax to setup a rat and then raged and threatened to report mmmax to the police when mmmax made it to send to 2 webhooks when he tested it 😂😂😂😂 (also a fake swiper who flexes 1s).
 
-5nt - got community service for swatting sjnez 😂😂😂 and was told by his mom (denise findley) to "SHUT UP" while trying to pack in vc. there are about 10 versions of 5nt.rar because he runs everything and is owned by sn0whook
+5nt - Got community service for swatting sjnez 😂😂😂 and was told by his mom to "SHUT UP" while trying to pack in vc. There are about 10 versions of 5nt.rar because he runs everything and is owned by sn0whook.
 
-blizzard - british and ginger
+Blizzard - Tritish and ginger.
 
-travis - the best to ever do it
+Travis - The best to ever do it.
 
 Gerald0mc - Use to be a skid (FloatUtils go hard) but is now a professional at north korean code. 
 
