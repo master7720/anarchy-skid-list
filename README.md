@@ -54,7 +54,7 @@ Hqrion - Got recognition for making the leaked 1.7.2 phobos buildable. Turns out
 
 Ciruu - Made quite possible the most skidded kami skid to ever exist, "Zispanos Backdoor" back in the day. Now he spends his time on his exit scam, "Abyss" and pasting phobos and summit.
 
-Sjnez - OyVey/Phobos fetish, Skidded just about any client in order to make "Renosense". Pasted salhack PacketEvent and event bus for one module even though his phobos base already had one 💀. Roadmap: 1. skid, 2. gain trust, 3. add rat, 4. repeat.
+Sjnez - OyVey/Phobos fetish, Skidded just about any client in order to make "Renosense". Pasted salhack PacketEvent and event bus for one module even though his phobos base already had one 💀.
 
 Es0teric - Oyvey/Phobos paster, made Gondal.club
 
