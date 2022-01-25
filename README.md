@@ -87,7 +87,6 @@ Fe/Firerug/Watermat/Ongoing - Creater of the "Client" Ongoingware. I put client 
 
 Crazzzzzymonkey - Creator of one of the most nasty paid clients to exsist, "Catalyst". Is also a pedo (allegedly). Created a client that is a complete paste/rename of Gish code, and sells it for $20. I cringe everytime Kilab compares this god-forsaken trash to far supperior clients like Rusher, and Future, as if they are at all on the same level. Anyone with a brain can see past their reskined gui to the gish base below. Also pirates binsecure, and copes with dmca whenever anyone postes his deobfed shit.
 
----
 # Not necessarily a skid
 
 0x22 - Pasted his entire client "Future" from Exeter. It seems he has become a much better developer now, but his client still contains uses old ass Exeter code that he refuses to rewrite. (just look at the gui 💀) He also buys exploits to put into Future (DUMNPED AF).
