@@ -2,6 +2,14 @@
 I made this as least bias as I can & if I have missed anyone please make a pr, & I will review it.
 
 # Noobs
+gopro336 - dumb skid who cant code and makes "buildable sources" to get the nns to feed his ego,,,,
+
+redd - massive skid who asked me to setup a rat and then raged and threatened to report me to the police when i made it to send to 2 webhooks when he tested it 😂😂😂😂 (also a fake swiper who flexes 1s)
+
+5nt - got community service for swatting sjnez 😂😂😂 and was told by his mom (denise findley) to "SHUT UP" while trying to pack in vc. there are about 10 versions of 5nt.rar because he runs everything and is owned by sn0whook
+
+blizzard - british and ginger
+
 travis - the best to ever do it
 
 Gerald0mc - Use to be a skid (FloatUtils go hard) but is now a professional at north korean code. 
@@ -48,13 +56,13 @@ ObsidianBreaker/accessmodifier364 - Fetish for wurst+2 (This was awhile ago thou
 
 Catuquei - OyVey Fetish. (Starting to see a pattern with pvpers and them ~~skidding and pasting into an oyvey base~~ "coding" new clients).
 
-0x22 - Pasted his entire client "Future" from Exeter. It seems he has become a much better developer now, but his client still contains uses old ass Exeter code that he refuses to rewrite. (just look at the gui 💀) He also buys exploits to put into Future.
+0x22 - Pasted his entire client "Future" from Exeter. It seems he has become a much better developer now, but his client still contains uses old ass Exeter code that he refuses to rewrite. (just look at the gui 💀) He also buys exploits to put into Future (DUMNPED AF).
 
 Hqrion - Got recognition for making the leaked 1.7.2 phobos buildable. Turns out, it was completely done by his friend Ciruu, and the "SRC" was crashing useless garbage. Kills any project he touches.
 
 Ciruu - Made quite possible the most skidded kami skid to ever exist, "Zispanos Backdoor" back in the day. Now he spends his time on his exit scam, "Abyss" and pasting phobos and summit.
 
-Sjnez - OyVey/Phobos fetish, Skidded just about any client in order to make "Renosense". Pasted salhack PacketEvent and event bus for one module even though his phobos base already had one 💀.
+Sjnez - OyVey/Phobos fetish, Skidded just about any client in order to make "Renosense" and got ratted by it 😂. Pasted salhack PacketEvent and event bus for one module even though his phobos base already had one 💀.
 
 Es0teric - Oyvey/Phobos paster, made Gondal.club
 
@@ -70,7 +78,7 @@ Chardn0l - Reps trollgod like its the best client, deep throats hollows dong, an
 
 p4nda - Beaner 13 year old who made about half a dozen clients which are dogshit gamesense/osiris pastes. Known for "making" the laughably bad shader chams that every client has now.
 
-GL_DONT_CARE - Steals Future code for a living, any code that he "writes" is dogshit and breaks his client (keep this man far away from new konas base, let auto rewrite that shit). Doxes people who crack his client. Spams chat with unfunny memes and cannot win an arguement if his life depended on it.
+GL_DONT_CARE - Steals Future code for a living, any code that he "writes" is dogshit and breaks his client (keep this man far away from new konas base, let auto rewrite that shit). Doxxes people who crack his client. Spams chat with unfunny memes and cannot win an arguement if his life depended on it.
 
 iBikky - Australian who pastes oyvey for a living, say that his coords exploit is powerful and shit when its actually a dogshit Command.sendMessage from OyVey, paste github's bowbomb and said that he never paste shit. 
 
