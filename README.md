@@ -2,7 +2,6 @@
 I made this as least bias as I can & if I have missed anyone please make a pr, & I will review it.
 
 # Noobs
-GoPro336 - Dumb skid who can't code and makes "buildable sources" to get the nns to feed his ego.
 
 Redd - Massive skid who asked mmmax to setup a rat and then raged and threatened to report mmmax to the police when mmmax made it to send to 2 webhooks when he tested it 😂😂😂😂 (also a fake swiper who flexes 1s).
 
@@ -56,8 +55,6 @@ ObsidianBreaker/accessmodifier364 - Fetish for wurst+2 (This was awhile ago thou
 
 Catuquei - OyVey Fetish. (Starting to see a pattern with pvpers and them ~~skidding and pasting into an oyvey base~~ "coding" new clients).
 
-0x22 - Pasted his entire client "Future" from Exeter. It seems he has become a much better developer now, but his client still contains uses old ass Exeter code that he refuses to rewrite. (just look at the gui 💀) He also buys exploits to put into Future (DUMNPED AF).
-
 Hqrion - Got recognition for making the leaked 1.7.2 phobos buildable. Turns out, it was completely done by his friend Ciruu, and the "SRC" was crashing useless garbage. Kills any project he touches.
 
 Ciruu - Made quite possible the most skidded kami skid to ever exist, "Zispanos Backdoor" back in the day. Now he spends his time on his exit scam, "Abyss" and pasting phobos and summit.
@@ -78,13 +75,27 @@ Chardn0l - Reps trollgod like its the best client, deep throats hollows dong, an
 
 p4nda - Beaner 13 year old who made about half a dozen clients which are dogshit gamesense/osiris pastes. Known for "making" the laughably bad shader chams that every client has now.
 
-
-GL_DONT_CARE - Steals Future code for a living, any code that he "writes" is dogshit and breaks his client (keep this man far away from new konas base, let auto rewrite that shit). Doxes people who crack his client. Spams chat with unfunny memes and cannot win an arguement if his life depended on it. Also pastes modules from open source clients, refuses to credit, tries to dox instead, and fails at that.
-
+GL_DONT_CARE - Steals Future code for a living, any code that he "writes" is dogshit and breaks his client (keep this man far away from new konas base, let auto rewrite that shit). Doxes people who crack his client. Spams chat with unfunny memes and cannot win an arguement if his life depended on it. Also pastes modules from open source clients, refuses to credit, tries to dox instead, and fails at that. "Pasting gishcode rn" - GL
 
 iBikky - Australian who pastes oyvey for a living, say that his coords exploit is powerful and shit when its actually a dogshit Command.sendMessage from OyVey, paste github's bowbomb and said that he never paste shit. 
 
 Innards - "pro dev" who skids Killaura (💀) and calls competent devs garbage
+
+SankuGG - Annoing squeeker, and salhack paster. Begs Gopro for modules.
+
+Fe/Firerug/Watermat/Ongoing - Creater of the "Client" Ongoingware. I put client in quotes, because there really was no client due to the fact that he did not even posses the ability to rename a client. Has dms of asking Moo and Gopro how to skid 😂. He is essentialy like SirMeme, exept for him being pretty chill, and not an incel. Creator of varius dupe hoaxes, and most recently colaberated with Max on "Raven". He tricked Max into thinking he could code, and then left soon after.
+
+Crazzzzzymonkey - Creator of one of the most nasty paid clients to exsist, "Catalyst". Is also a pedo (allegedly). Created a client that is a complete paste/rename of Gish code, and sells it for $20. I cringe everytime Kilab compares this god-forsaken trash to far supperior clients like Rusher, and Future, as if they are at all on the same level. Anyone with a brain can see past their reskined gui to the gish base below. Also pirates binsecure, and copes with dmca whenever anyone postes his deobfed shit.
+
+# Not necessarily a skid
+
+0x22 - Pasted his entire client "Future" from Exeter. It seems he has become a much better developer now, but his client still contains uses old ass Exeter code that he refuses to rewrite. (just look at the gui 💀) He also buys exploits to put into Future (DUMNPED AF).
+
+Gopro336 - Mediocre coder that went from complete rando to a big namer by leaching clout from Phobos. Father of the god-awful "BUILDABLE_SRC" naming scheem. Has a stan following of skids that treat him like he's the 2nd coming of christ. Continuses to degrade the development community by providing pasters with hordes of code to paste from. Single handedly started the epedemic of Oyvey and Phobos based clients.
+
+0iMax/mmmax - Developer that makes meh code. He isnt a skid, but he makes mid clients that nobody uses. In his latest project, "Raven" he found a skid named Fe, to be the face of the client. Then He proceded to spend months creating a dog client only for it to never be used. Beta testers never got to use the client, and Max quit. Max later said that he was tricked by Fe, who said he could code when he could not. (I could have told you that 😂💀).
+
+earthquake - Actually a very good developer, Creator of phobos/earthhack. Skidded kami at first, and then moved on to skiding Seppuku, and Exeter for the gui. Makes decent modules, and has improved lots. 3arthhck 1.3.1's code is suprisingly good, and is very overbuilt (I do kinda get Exeter vibes from it tho).
 
 ---
 
