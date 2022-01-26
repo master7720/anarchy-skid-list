@@ -89,7 +89,7 @@ Crazzzzzymonkey - Creator of one of the most nasty paid clients to exsist, "Cata
 
 Skitty - Auful ~~develper~~ skid that ~~develped~~ pasted a terrible ~~client~~ kami skid called sn0w. Sn0w is a paste of any client Skitty can get his small immasculine hands on. It was made for severs with almost no anticheat, like cc (sense a trend here?). He also made a Xulu skid called Skitty hack that nobody cared about or used.
 
-Elementars - The definition of a "good paster". Xulu is a paste of almost every decent client around at the time of its creation. It somehow was also a decent client at the same time which is very rare. It was also custom base, but featured a herocode gui. The code of Xulu is very bad at times and has a lot of quality inconsistancy due do the fact that there are legit 30 different devs code pasted in it 💀. Some classes still have to "Decompiled by Procyon" tag 😂. Has since quit, and now makes youtube videos trying to imatate Dream (down bad 💀).
+Elementars - The definition of a "good paster". Xulu is a paste of almost every decent client around at the time of its creation. It somehow was also a decent client at the same time which is very rare. It was also custom base, but featured a herocode gui. The code of Xulu is very bad at times and has a lot of quality inconsistancy due do the fact that there are legit 30 different devs code pasted in it 💀. Some classes still have the "Decompiled by Procyon" tag 😂. Has since quit, and now makes youtube videos trying to imatate Dream (down bad 💀).
 
 # Not necessarily a skid
 
