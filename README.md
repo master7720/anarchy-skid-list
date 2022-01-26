@@ -23,7 +23,7 @@ Gentleman - Pro Phobos editor/We need GentleHook v3 :pray:.
 
 Alfie - Lord & savior of OyVey.
 
-ProfKambing - (Unironically 12 yr) That loves to rename strings & act like a scary dark web hacker.
+ProfKambing - (Unironically 12 yr) That loves to rename strings & act like a scary dark web hacker. Also brags about pasting pandas laughably bad shader chams.
 
 SSLWasTaken - Pro kami5/Phobos editor/Renamer.
 
@@ -87,6 +87,10 @@ Fe/Firerug/Watermat/Ongoing - Creater of the "Client" Ongoingware. I put client 
 
 Crazzzzzymonkey - Creator of one of the most nasty paid clients to exsist, "Catalyst". Is also a pedo (allegedly). Created a client that is a complete paste/rename of Gish code, and sells it for $20. I cringe everytime Kilab compares this god-forsaken trash to far supperior clients like Rusher, and Future, as if they are at all on the same level. Anyone with a brain can see past their reskined gui to the gish base below. Also pirates binsecure, and copes with dmca whenever anyone postes his deobfed shit.
 
+Skitty - Auful ~~develper~~ skid that ~~develped~~ pasted a terrible ~~client~~ kami skid called sn0w. Sn0w is a paste of any client Skitty can get his small immasculine hands on. It was made for severs with almost no anticheat, like cc (sense a trend here?). He also made a Xulu skid called Skitty hack that nobody cared about or used.
+
+Elementars - The definition of a "good paster". Xulu is a paste of almost every decent client around at the time of its creation. It somehow was also a decent client at the same time which is very rare. It was also custom base, but featured a herocode gui. The code of Xulu is very bad at times and has a lot of quality inconsistancy due do the fact that there are legit 30 different devs code pasted in it 💀. Some classes still have the "Decompiled by Procyon" tag 😂. Has since quit, and now makes youtube videos trying to imatate Dream (down bad 💀).
+
 # Not necessarily a skid
 
 0x22 - Pasted his entire client "Future" from Exeter. It seems he has become a much better developer now, but his client still contains uses old ass Exeter code that he refuses to rewrite. (just look at the gui 💀) He also buys exploits to put into Future (DUMNPED AF).
@@ -95,7 +99,9 @@ Gopro336 - Mediocre coder that went from complete rando to a big namer by leachi
 
 0iMax/mmmax - Developer that makes meh code. He isnt a skid, but he makes mid clients that nobody uses. In his latest project, "Raven" he found a skid named Fe, to be the face of the client. Then He proceded to spend months creating a dog client only for it to never be used. Beta testers never got to use the client, and Max quit. Max later said that he was tricked by Fe, who said he could code when he could not. (I could have told you that 😂💀).
 
-earthquake - Actually a very good developer, Creator of phobos/earthhack. Skidded kami at first, and then moved on to skiding Seppuku, and Exeter for the gui. Makes decent modules, and has improved lots. 3arthhck 1.3.1's code is suprisingly good, and is very overbuilt (I do kinda get Exeter vibes from it tho).
+earthquake - Actually a very good developer, Creator of phobos/earthhack. Skidded kami at first, and then moved on to skiding Seppuku, and Exeter for the gui. (Thats why hes on the list) Makes decent modules, and has improved lots. 3arthhck 1.3.1's code is suprisingly good, and is very overbuilt (I do kinda get Exeter vibes from it tho).
+
+Ionar - Developer of the massively popular Salhack client, which pasted hevily from sepuku, and also kami. Later contiued it privately to make summit which was a awful paste. Even the code he wrote was shitty. He even put a recomendation on the git repo, advising people to not use it. His latest endevour, a colaberation with developer, Giant Nuker called Pyro, became a meme very quickly for having an AutoCrystal that appered much faster than it actually was, and later for becoming an exit scam after it was cracked. To this day the next version of pyro, "1.5" has not released, and we are approching 2 years with 1.4.1. 1.5 looks decent, but as for now Pyro is considered a private client. Event if it does release, 90% of the original Pyro buyers have since quit 😂.
 
 ---
 
