@@ -3,13 +3,13 @@ I made this as least bias as I can & if I have missed anyone please make a pr, &
 
 # Noobs
 
+travis - The best to ever do it.
+
 Redd - Massive skid who asked mmmax to setup a rat and then raged and threatened to report mmmax to the police when mmmax made it to send to 2 webhooks when he tested it 😂😂😂😂 (also a fake swiper who flexes 1s).
 
 5nt - Got community service for swatting sjnez 😂😂😂 and was told by his mom to "SHUT UP" while trying to pack in vc. There are about 10 versions of 5nt.rar because he runs everything and is owned by sn0whook.
 
 Blizzard - Tritish and ginger.
-
-Travis - The best to ever do it.
 
 Gerald0mc - Used to be a skid (FloatUtils go hard) but is now a professional at north korean code.
 
