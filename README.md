@@ -19,7 +19,7 @@ kyv3/Ligmaballz - Lord of GitHub copilot & north korean coder.
 
 NotRocky/master7720 - Pro mcmod.info editor.
 
-Gentleman - Pro Phobos editor/We need GentleHook v3 (never said he can code) :pray:.
+Gentleman - Pro Phobos editor/We need GentleHook v3 :pray:.
 
 Alfie - Lord & savior of OyVey.
 
