@@ -4,6 +4,8 @@ I made this as least bias as I can & if I have missed anyone please make a pr, &
 # Noobs
 Gerald0mc - Use to be a skid but is now a professional at north korean code.
 
+ddev - the sadded oyvey skider. he made a private client called (xulu+) it got leaked by master7720 and everyone found out it was a huge skid.
+
 Listed - Semi skidder/Scuffed at custom code & big ego but is ""baiting"".
 
 kyv3/Ligmaballz - Lord of GitHub copilot & north korean coder.
