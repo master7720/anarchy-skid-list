@@ -19,7 +19,7 @@ kyv3/Ligmaballz - Lord of GitHub copilot & north korean coder.
 
 NotRocky/master7720 - Pro mcmod.info editor.
 
-Gentleman - Pro Phobos editor/We need GentleHook v3 :pray:.
+Gentleman - Pro Phobos editor/We need GentleHook v3 (never said he can code) :pray:.
 
 Alfie - Lord & savior of OyVey.
 
@@ -86,6 +86,8 @@ SankuGG - Annoing squeeker, and salhack paster. Begs Gopro for modules.
 Fe/Firerug/Watermat/Ongoing - Creater of the "Client" Ongoingware. I put client in quotes, because there really was no client due to the fact that he did not even posses the ability to rename a client. Has dms of asking Moo and Gopro how to skid 😂. He is essentialy like SirMeme, exept for him being pretty chill, and not an incel. Creator of varius dupe hoaxes, and most recently colaberated with Max on "Raven". He tricked Max into thinking he could code, and then left soon after.
 
 Crazzzzzymonkey - Creator of one of the most nasty paid clients to exsist, "Catalyst". Is also a pedo (allegedly). Created a client that is a complete paste/rename of Gish code, and sells it for $20. I cringe everytime Kilab compares this god-forsaken trash to far supperior clients like Rusher, and Future, as if they are at all on the same level. Anyone with a brain can see past their reskined gui to the gish base below. Also pirates binsecure, and copes with dmca whenever anyone postes his deobfed shit.
+
+SquidLauncher - the "somthing is majorly wrong with the offhand" guy (https://www.youtube.com/watch?v=iz-o2mGlwCc)
 
 Skitty - Auful ~~develper~~ skid that ~~develped~~ pasted a terrible ~~client~~ kami skid called sn0w. Sn0w is a paste of any client Skitty can get his small immasculine hands on. It was made for severs with almost no anticheat, like cc (sense a trend here?). He also made a Xulu skid called Skitty hack that nobody cared about or used.
 
