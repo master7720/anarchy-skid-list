@@ -86,7 +86,7 @@ SankuGG - Annoing squeeker, and salhack paster. Begs Gopro for modules.
 
 Fe/Firerug/Watermat/Ongoing - Creater of the "Client" Ongoingware. I put client in quotes, because there really was no client due to the fact that he did not even posses the ability to rename a client. Has dms of asking Moo and Gopro how to skid 😂. He is essentialy like SirMeme, exept for him being pretty chill, and not an incel. Creator of varius dupe hoaxes, and most recently colaberated with Max on "Raven". He tricked Max into thinking he could code, and then left soon after.
 
-Crazzzzzymonkey - Creator of one of the most nasty paid clients to exsist, "Catalyst". Is also a pedo (allegedly). Created a client that is a complete paste/rename of Gish code, and sells it for $20. I cringe everytime Kilab compares this god-forsaken trash to far supperior clients like Rusher, and Future, as if they are at all on the same level. Anyone with a brain can see past their reskined gui to the gish base below. Also pirates binsecure, and copes with dmca whenever anyone postes his deobfed shit.
+Krazzzzzymonkey - Creator of one of the most nasty paid clients to exsist, "Catalyst". Is also a pedo (allegedly). Created a client that is a complete paste/rename of Gish code, and sells it for $20. I cringe everytime Kilab compares this god-forsaken trash to far supperior clients like Rusher, and Future, as if they are at all on the same level. Anyone with a brain can see past their reskined gui to the gish base below. Also pirates binsecure, and copes with dmca whenever anyone postes his deobfed shit.
 
 Skitty - Awful develper skid that develped pasted a terrible client kami skid called sn0w. Sn0w is a paste of any client Skitty can get his small immasculine hands on. It was made for severs with almost no anticheat, like cc (sense a trend here?). He also made a Xulu skid called Skitty hack that nobody cared about or used.
 
@@ -104,5 +104,7 @@ earthquake - Actually a very good developer, Creator of phobos/earthhack. Skidde
 Ionar - Developer of the massively popular Salhack client, which pasted hevily from seppuku, and also kami. Later contiued it privately to make summit which was a awful paste. Even the code he wrote was shitty. He even put a recomendation on the git repo, advising people to not use it. His latest endevour, a colaberation with developer, Giant Nuker called Pyro, became a meme very quickly for having an AutoCrystal that appered much faster than it actually was, and later for becoming an exit scam after it was cracked. To this day the next version of pyro, "1.5" has not released, and we are approching 2 years with 1.4.1. 1.5 looks decent, but as for now Pyro is considered a private client. Event if it does release, 90% of the original Pyro buyers have since quit 😂.
 
 finz0 - Started with a kami fork, then the somewhat popular Osiris which was skidded from various other clients but also had some original (bad) code, then a (pretty good at the time) private client which was 90% original (better) code. Now working on a 1.18 client.
+
+Notperry1234567890 - skidded phobos(thats why hes on this list)but hes a much better coder now.
 
 If you are on this list and come crying into the issue or pull requests tab, you're just proving your skid-ness (thats not even a word)
