@@ -93,6 +93,7 @@ Skitty - Awful develper skid that develped pasted a terrible client kami skid ca
 Elementars - The definition of a "good paster". Xulu is a paste of almost every decent client around at the time of its creation. It somehow was also a decent client at the same time which is very rare. It was also custom base, but featured a herocode gui. The code of Xulu is very bad at times and has a lot of quality inconsistancy due do the fact that there are legit 30 different devs code pasted in it 💀. Some classes still have the "Decompiled by Procyon" tag 😂. Has since quit, and now makes youtube videos trying to imatate Dream (down bad 💀).
 
 Not necessarily a skid
+
 0x22 - Pasted his entire client "Future" from Exeter. It seems he has become a much better developer now, but his client still contains uses old ass Exeter code that he refuses to rewrite. (just look at the gui 💀) He also buys exploits to put into Future (DUMNPED AF).
 
 Gopro336 - Mediocre coder that went from complete rando to a big namer by leaching clout from Phobos. Father of the god-awful "BUILDABLE_SRC" naming scheem. Has a stan following of skids that treat him like he's the 2nd coming of christ. Continuses to degrade the development community by providing pasters with hordes of code to paste from. Single handedly started the epedemic of Oyvey and Phobos based clients.
