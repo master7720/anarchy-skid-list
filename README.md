@@ -1,8 +1,13 @@
 anarchy-skid-list
 I made this as least bias as I can & if I have missed anyone please make a pr, & I will review it.
 
-Noobs
-travis - The best to ever do it.
+Koolotta - Dramaalert Dev, abyss, virtue and 13 different clients in one.
+
+ThatN3RD - Memenight Dev, skidded 40 different clients in one.
+
+Bhopped - skidded discord for HopCord and sold it to buy money for food.
+
+x3 - skidded bitcoin core to make x3coin and also skidded windows api to make rats (he still denys ratting to this day).
 
 Redd - Massive skid who asked mmmax to setup a rat and then raged and threatened to report mmmax to the police when mmmax made it to send to 2 webhooks when he tested it 😂😂😂😂 (also a fake swiper who flexes 1s).
 
@@ -11,6 +16,14 @@ Redd - Massive skid who asked mmmax to setup a rat and then raged and threatened
 ddev - shity dev said his client(Xuluplus) was custom then when master7720 leaked it everyone found out its a shit oyvey paste.now he copes in ppls dms and lies about everything(hes over 20 years old btw).
 
 Blizzard - Tritish and ginger.
+
+Koolotta - Dramaalert Dev, abyss, virtue and 13 different clients in one.
+
+ThatN3RD - Memenight Dev, XIV, virtue and 40 different clients in one.
+
+Bhopped - skidded discord for HopCord and sold it to buy money for food.
+
+x3 - skidded bitcoin core to make x3coin and also skidded windows api to make rats (he still denys ratting to this day).****
 
 Gerald0mc - Used to be a skid (FloatUtils go hard) but is now a professional at north korean code.
 
