@@ -155,6 +155,6 @@ finz0 - Started with a kami fork, then the somewhat popular Osiris which was ski
 
 Notperry1234567890 - skidded phobos(thats why hes on this list)but hes a much better coder now.
 
-PeterPePem/PeterDev - Skidded phobos(a lot), Catware Dev, the guy who leaked FutureX to Gopro336 and now he is a better coder.
+PeterPePem/PeterDev - Skidded phobos(a lot), Catware Main Dev, the guy who leaked FutureX to Gopro336 and now he is a better coder.
 
 If you are on this list and come crying into the issue or pull requests tab, you're just proving your skid-ness (thats not even a word)
