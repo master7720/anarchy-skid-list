@@ -3,7 +3,6 @@ anarchy-skid-list
 
 I made this as least bias as I can & if I have missed anyone please make a pr, & I will review it.
 
-
 Koolotta - Dramaalert Dev, abyss, virtue and 13 different clients in one.
 
 ThatN3RD - Memenight Dev, skidded 40 different clients in one.
