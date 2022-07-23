@@ -3,6 +3,7 @@ anarchy-skid-list
 
 I made this as least bias as I can & if I have missed anyone please make a pr, & I will review it.
 
+
 Koolotta - Dramaalert Dev, abyss, virtue and 13 different clients in one.
 
 ThatN3RD - Memenight Dev, skidded 40 different clients in one.
@@ -154,5 +155,7 @@ Elementars - The definition of a "good paster". Xulu is a paste of almost every 
 finz0 - Started with a kami fork, then the somewhat popular Osiris which was skidded from various other clients but also had some original (bad) code, then a (pretty good at the time) private client which was 90% original (better) code. Now working on a 1.18 client.
 
 Notperry1234567890 - skidded phobos(thats why hes on this list)but hes a much better coder now.
+
+PeterPePem/PeterDev - Skidded phobos(a lot), Catware Dev, the guy who leaked FutureX to Gopro336 and now he is a better coder.
 
 If you are on this list and come crying into the issue or pull requests tab, you're just proving your skid-ness (thats not even a word)
