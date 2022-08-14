@@ -83,8 +83,6 @@ Hollow - Incel that seems to somewhat know Java, yet their client "Trollgod" is 
 
 Chardn0l - Reps trollgod like its the best client, deep throats hollows dong, and larps about being a gangster, even though we all know he's a skinny white incel that gets bullied at school.
 
-p4nda - Beaner 13 year old who made about half a dozen clients which are dogshit gamesense/osiris pastes. Known for "making" the laughably bad shader chams that every client has now.
-
 GL_DONT_CARE - Steals Future code for a living, any code that he "writes" is dogshit and breaks his client (keep this man far away from new konas base, let auto rewrite that shit). Doxes people who crack his client. Spams chat with unfunny memes and cannot win an arguement if his life depended on it. Also pastes modules from open source clients, refuses to credit, tries to dox instead, and fails at that. "Pasting gishcode rn" - GL
 
 iBikky - Australian who pastes oyvey for a living, say that his coords exploit is powerful and shit when its actually a dogshit Command.sendMessage from OyVey, paste github's bowbomb and said that he never paste shit. 
