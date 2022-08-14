@@ -10,10 +10,12 @@ ThatN3RD - Memenight Dev, skidded 40 different clients in one.
 Bhopped - skidded discord for HopCord and sold it to buy money for food.
 
 x3 - skidded bitcoin core to make x3coin and also skidded windows api to make rats (he still denys ratting to this day).
-
+ 
 Redd - Massive skid who asked mmmax to setup a rat and then raged and threatened to report mmmax to the police when mmmax made it to send to 2 webhooks when he tested it 😂😂😂😂 (also a fake swiper who flexes 1s).
 
 5nt - Got community service for swatting sjnez 😂😂😂 and was told by his mom to "SHUT UP" while trying to pack in vc. There are about 10 versions of 5nt.rar because he runs everything and is owned by sn0whook.
+
+p4nda/zoom - steals every visuals idea from phobos to his glorious cheat "Europa".
 
 ddev - shity dev said his client(Xuluplus) was custom then when master7720 leaked it everyone found out its a shit oyvey paste.now he copes in ppls dms and lies about everything(hes over 20 years old btw).
 
@@ -93,7 +95,7 @@ SankuGG - Annoying squeeker, and salhack paster. Begs Gopro for modules.
 
 Fe/Firerug/Watermat/Ongoing - Creator of the "Client" Ongoingware. I put client in quotes, because there really was no client due to the fact that he did not even posses the ability to rename a client. Has dms of asking Moo and Gopro how to skid 😂. He is essentialy like SirMeme, exept for him being pretty chill, and not an incel. Creator of varius dupe hoaxes, and most recently collaborated with Max on "Raven". He tricked Max into thinking he could code, and then left soon after.
 
-Crazzzzzymonkey - Creator of one of the most nasty paid clients to exist, "Catalyst". Is also a pedo (allegedly). Created a client that is a complete paste/rename of Gish code, and sells it for $20. I cringe everytime Kilab compares this god-forsaken trash to far superior clients like Rusher, and Future, as if they are at all on the same level. Anyone with a brain can see past their reskinned gui to the gish base below. Also pirates binsecure, and copes with dmca whenever anyone posts his deobfed shit.
+krazzzzzymonkey - Creator of one of the most nasty paid clients to exist, "Catalyst". Is also a pedo (allegedly). Created a client that is a complete paste/rename of Gish code, and sells it for $20. I cringe everytime Kilab compares this god-forsaken trash to far superior clients like Rusher, and Future, as if they are at all on the same level. Anyone with a brain can see past their reskinned gui to the gish base below. Also pirates binsecure, and copes with dmca whenever anyone posts his deobfed shit.
 
 SquidLauncher - the "something is majorly wrong with the offhand" guy (https://www.youtube.com/watch?v=iz-o2mGlwCc)
 
@@ -112,46 +114,6 @@ Gopro336 - Mediocre coder that went from complete rando to a big namer by leachi
 earthquake - Actually a very good developer, Creator of phobos/earthhack. Skidded kami at first, and then moved on to skiding Seppuku, and Exeter for the gui. (Thats why hes on the list) Makes decent modules, and has improved lots. 3arthhck 1.3.1's code is suprisingly good, and is very overbuilt (I do kinda get Exeter vibes from it tho).
 
 Ionar - Developer of the massively popular Salhack client, which pasted hevily from sepuku, and also kami. Later contiued it privately to make summit which was a awful paste. Even the code he wrote was shitty. He even put a recommendation on the git repo, advising people to not use it. His latest endeavour, a collaboration with developer, Giant Nuker called Pyro, became a meme very quickly for having an AutoCrystal that appeared much faster than it actually was, and later for becoming an exit scam after it was cracked. To this day the next version of pyro, "1.5" has not released, and we are approching 2 years with 1.4.1. 1.5 looks decent, but as for now Pyro is considered a private client. Event if it does release, 90% of the original Pyro buyers have since quit 😂.
-
-Catuquei - OyVey Fetish. (Starting to see a pattern with pvpers and them skidding and pasting into an oyvey base "coding" new clients).
-
-Hqrion - Got recognition for making the leaked 1.7.2 phobos buildable. Turns out, it was completely done by his friend Ciruu, and the "SRC" was crashing useless garbage. Kills any project he touches.
-
-Ciruu - Made quite possible the most skidded kami skid to ever exist, "Zispanos Backdoor" back in the day. Now he spends his time on his exit scam, "Abyss" and pasting phobos and summit.
-
-Sjnez - OyVey/Phobos fetish, Skidded just about any client in order to make "Renosense" and got ratted by it 😂. Pasted salhack PacketEvent and event bus for one module even though his phobos base already had one 💀.
-
-Es0terik - Oyvey/Phobos paster, made Gondal.club
-
-SirMeme - The single most retarded skid to ever touch intellij. Renamed varius public clients to "FutureX" and tried to sell them. He joined various discords to promote his dogshit.
-
-Novola/Trental - Somehow convinced Gopro to make oyvey buildable (a god awful decision). Then they proceeded to make the original oyvey paste called "Zori" that started this horrible trend.
-
-RageMachine/ManOnTheMoon - Retarded wannabe developer (yet refuses to properly learn to code). Created a paste straight from hell called "synapse", Sold it, pulled a pyro, and then faked various real-life crises as excuses for leaving the project. (There were no refunds).
-
-Hollow - Incel that seems to somewhat know Java, yet their client "Trollgod" is worthless, phobos-pasted garbage.
-
-Chardn0l - Reps trollgod like its the best client, deep throats hollows dong, and larps about being a gangster, even though we all know he's a skinny white incel that gets bullied at school.
-
-p4nda - Beaner 13 year old who made about half a dozen clients which are dogshit gamesense/osiris pastes. Known for "making" the laughably bad shader chams that every client has now.
-
-GL_DONT_CARE - Steals Future code for a living, any code that he "writes" is dogshit and breaks his client (keep this man far away from new konas base, let auto rewrite that shit). Doxes people who crack his client. Spams chat with unfunny memes and cannot win an argument if his life depended on it. Also pastes modules from open source clients, refuses to credit, tries to dox instead, and fails at that. "Pasting gishcode rn" - GL
-
-iBikky - Australian who pastes oyvey for a living, say that his coords exploit is powerful and shit when its actually a dogshit Command.sendMessage from OyVey, paste github's bowbomb and said that he never paste shit.
-
-Innards - "pro dev" who skids Killaura (💀) and calls competent devs garbage
-
-SankuGG - Annoying squeeker, and salhack paster. Begs Gopro for modules.
-
-Fe/Firerug/Watermat/Ongoing - Creator of the "Client" Ongoingware. I put client in quotes, because there really was no client due to the fact that he did not even posses the ability to rename a client. Has dms of asking Moo and Gopro how to skid 😂. He is essentialy like SirMeme, exept for him being pretty chill, and not an incel. Creator of varius dupe hoaxes, and most recently collaborated with Max on "Raven". He tricked Max into thinking he could code, and then left soon after.
-
-Krazzzzzymonkey - Creator of one of the most nasty paid clients to exsist, "Catalyst". Is also a pedo (confirmed). Created a client that is a complete paste/rename of Gish code, and sells it for $20. I cringe everytime Kilab compares this god-forsaken trash to far superior clients like Rusher, and Future, as if they are at all on the same level. Anyone with a brain can see past their reskinned gui to the gish base below. Also pirates binsecure, and copes with dmca whenever anyone posts his deobfed shit.
-
-Skitty - Awful ~~developer~ skid that ~~developed~~ pasted a terrible ~~client~~ kami skid called sn0w. Sn0w is a paste of any client Skitty can get his small effeminate hands on. It was made for servers with almost no anticheat, like cc (sense a trend here?). He also made a Xulu skid called Skitty hack that nobody cared about or used.
-
-Elementars - The definition of a "good paster". Xulu is a paste of almost every decent client around at the time of its creation. It somehow was also a decent client at the same time which is very rare. It was also custom base, but featured a herocode gui. The code of Xulu is very bad at times and has a lot of quality inconsistency due do the fact that there are legit 30 different devs code pasted in it 💀. Some classes still have the "Decompiled by Procyon" tag 😂. Has since quit, and now makes youtube videos trying to imitate Dream (down bad 💀).
-
-finz0 - Started with a kami fork, then the somewhat popular Osiris which was skidded from various other clients but also had some original (bad) code, then a (pretty good at the time) private client which was 90% original (better) code. Now working on a 1.18 client.
 
 Notperry1234567890 - skidded phobos(thats why hes on this list)but hes a much better coder now.
 
