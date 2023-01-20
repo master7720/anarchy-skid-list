@@ -9,6 +9,8 @@ ThatN3RD - Memenight Dev, skidded 40 different clients in one.
 
 Bhopped - skidded discord for HopCord and sold it to buy money for food.
 
+Cocoapc911 Oyvey/Phobos fetish lives in his moms basement and skids phobos all day.
+
 x3 - skidded bitcoin core to make x3coin and also skidded windows api to make rats (he still denies ratting to this day).
  
 Redd - Massive skid who asked mmmax to setup a rat and then raged and threatened to report mmmax to the police when mmmax made it to send to 2 webhooks when he tested it 😂😂😂😂 (also a fake swiper who flexes 1s).
