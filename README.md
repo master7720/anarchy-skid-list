@@ -43,8 +43,6 @@ _Fxcte - Pro at OyVey editing.
 
 KuroHere - 30 clients into 1 with KuroHack.
 
-Luscius - Fetish for Wurst+2.
-
 Noatmc - Another North Korean coder. (He's actually learning & improving though, unlike everyone else).
 
 Vaimok - (Unironically) Can't even make/use a Boolean.
