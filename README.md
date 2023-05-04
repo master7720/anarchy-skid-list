@@ -103,7 +103,11 @@ Skitty - An unskilled ~~developer~~ skidder created a poor-quality client Kami s
 
 Elementars - The definition of a "good paster". Xulu is a paste of almost every decent client around at the time of its creation. It somehow was also a decent client at the same time which is very rare. It was also custom base, but featured a Herocode gui. The code of Xulu is very bad at times and has a lot of quality inconsistancy due do the fact that there are legit 30 different devs code pasted in it 💀. Some classes still have the "Decompiled by Procyon" tag 😂. Has since quit, and now makes youtube videos trying to imitate Dream (down bad 💀).
 
-Heedie - This developer has a reputation for being autistic and has claimed that they no longer use skidded code. However, they are known to copy and paste nearly every addon into their own projects, and have even attempted to add malware into their code.
+Heedi - This developer has a reputation for being autistic and has claimed that they no longer use skidded code. However, they are known to copy and paste nearly every addon into their own projects, and have even attempted to add malware into their code.
+
+lefty - attempting to gain popularity by compiling all of the Anticops addons into a single modpack, without any original development or contribution of their own.
+
+Luscius - Luscius is a YouTuber who creates Minecraft anarchy content and has a following of 10k subscribers. However, his reputation is tarnished due to his shady practices. He promotes his hacked client called "LeuxBackdoor," which is essentially a poor w+2 paste that combines 15 different clients into one. This client has a RAT embedded in it that attempts to gather as much personal information from the user as possible. If someone interferes with him, Luscius will attempt to extort them by using their personal information or expose them in the Discord of his clan, "Leux." Aside from his client's dubious practices, Luscius has also engaged in inappropriate behavior by approaching minors between the ages of 10 and 14 online and asking them to be his "girlfriends/boyfriends." He uses this opportunity to obtain their personal information, but once he gets what he wants, he kicks them out of his Discord clan and pretends like nothing happened. Despite numerous pieces of evidence supporting these claims, Luscius often dismisses them as "bad edits" or makes other excuses to maintain his positive image with his followers. This behavior is concerning and inappropriate.
 
 # Not necessarily a skid
 
