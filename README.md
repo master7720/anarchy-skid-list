@@ -97,7 +97,7 @@ krazzzzzymonkey - The creator of one of the most notorious paid clients is refer
 
 SquidLauncher - The "something is majorly wrong with the offhand" guy (https://www.youtube.com/watch?v=iz-o2mGlwCc).
 
-elarp/Eralp232 - The dumbest person in anarchy has a big ego because of his shifty Discord client archive. He hates on people for skidding, yet he skids himself, and even begs others to skid modules into his shity oyvey skid because he doesn't know how to launch IntelliJ. Additionally, he uses website source code getters to post random clients' website source code, all the while thinking he's a hacker because of that.
+elarp/Eralp232 - The dumbest person in anarchy has a big ego because of his shitty Discord client archive. He hates on people for skidding, yet he skids himself, and even begs others to skid modules into his shity oyvey skid because he doesn't know how to launch IntelliJ. Additionally, he uses website source code getters to post random clients' website source code, all the while thinking he's a hacker because of that.
 
 Skitty - An unskilled ~~developer~~ skidder created a poor-quality client Kami skid named Sn0w. Sn0w is essentially a compilation of any client that Skitty, the skidder, could get his hands on. It was designed for servers with little to no anticheat, such as cc (notice a pattern here?). Additionally, Skitty created a Xulu skid called Skitty hack, which went unnoticed and unused.
 
