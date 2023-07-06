@@ -51,6 +51,8 @@ BigJMuffin - OyVey fetish.
 
 pauI - "pro" Java "dev" (Doesn't even know what a "Short" is).
 
+RoostaMasta - https://cdn.discordapp.com/attachments/997772825320505345/998059794910945290/unknown.png
+
 Primooctopus33 - Claims OctoHack's "good" modules are custom then instantly once it's leaked admits it's all skidded (Definition of sad wants to look like a cool coder/hacker).
 
 Wolfsurge - Devs one of the worst clients to ever exist. North korean coder. Claims to credit people if he uses their code, but skidded LiquidBounce's custom font renderer (which is under GPL-3.0 btw). Unironically renders his text by calling the method for each letter. Gets bullied at school (not bait).
