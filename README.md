@@ -9,6 +9,10 @@ ThatN3RD - The developer of Memenight has skidded 40 different clients and combi
 
 Bhopped - skidded discord for HopCord and sold it to buy money for food.
 
+Crosby/racoondo - skids meteor code for a living.
+
+SplashAni - kid is so dumb he got kicked from his own client for pasting meteor code
+
 Cocoapc911 Oyvey/Phobos fetish lives in his moms basement and skids phobos all day.
 
 x3 - Skidded Bitcoin Core to create X3coin, and also plagiarized the Windows API to create rats (he still denies ratting to this day).
@@ -29,7 +33,7 @@ Listed - Semi skidder/Scuffed at custom code & big ego but is ""baiting"".
 
 kyv3/Ligmaballz - Lord of GitHub copilot & North Korean coder.
 
-NotRocky/master7720 - Pro mcmod.info editor. (the best there ever was)
+NotRocky/master7720 - skidded past client back in 2021 and named it xeon.
 
 Gentleman - Pro Phobos editor/We need GentleHook v3 🙏.
 
