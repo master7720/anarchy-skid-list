@@ -9,17 +9,17 @@ ThatN3RD - The developer of Memenight has skidded 40 different clients and combi
 
 Bhopped - skidded discord for HopCord and sold it to buy money for food.
 
-Crosby/racoondo - skids meteor code for a living.
+Crosby/RacoonDog - Skids meteor code for a living.
 
-SplashAni - kid is so dumb he got kicked from his own client for pasting meteor code
+SplashAni - Kid is so dumb he got kicked from his own client for pasting Meteor code.
 
-Cocoapc911 Oyvey/Phobos fetish lives in his moms basement and skids phobos all day.
+Cocoapc911 - Oyvey/Phobos fetish lives in his moms basement and skids phobos all day.
 
 x3 - Skidded Bitcoin Core to create X3coin, and also plagiarized the Windows API to create rats (he still denies ratting to this day).
  
 Redd - Massive skid who requested that mmmax set up a rat and then became angry and threatened to report mmmax to the police when mmmax configured it to send to only two webhooks during testing. 😂😂😂😂 (also a fake swiper who flexes 1s).
 
-5nt -Got community service for swatting Sjnez and has been involved in multiple incidents where he's been told by his mom to "shut up" while trying to talk in voice chat. He has released around 10 versions of 5nt.rar, but it's widely known that he's not in control of the project and is essentially owned by sn0whook.
+5nt - Got community service for swatting Sjnez and has been involved in multiple incidents where he's been told by his mom to "shut up" while trying to talk in voice chat. He has released around 10 versions of 5nt.rar, but it's widely known that he's not in control of the project and is essentially owned by sn0whook.
 
 p4nda/zoom - steals every visuals idea from phobos to his glorious cheat "Europa".
 
