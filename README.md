@@ -15,6 +15,8 @@ Cpv - Skidded Swift base for his client and skidded the 3arthh4ck listeners into
 
 1nject - Skidded Skittys rat also skids polloshook(privatehook) also has a shit meteor addon.
 
+Ohare - skidded kami and also is one of the biggest pedos in the anarchy community. https://wedontfwu.github.io/
+
 SplashAni - Kid is so dumb he got kicked from his own client for pasting meteor code.
 
 Cocoapc911 - Oyvey/Phobos fetish lives in his moms basement and skids phobos all day.
