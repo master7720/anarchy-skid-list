@@ -5,13 +5,17 @@ I made this as least bias as I can & if I have missed anyone please make a PR (P
 
 Koolotta - DramaAlert Dev, Abyss, and Virtue skidded 13 different clients into one.
 
-ThatN3RD - The developer of Memenight has skidded 40 different clients and combined them into one.
+ThatN3RD - The developer of Memenight skidded 40 different clients into one.
 
-Bhopped - skidded discord for HopCord and sold it to buy money for food.
+Bhopped - Skidded discord for HopCord and sold it to buy money for food.
 
-Crosby/racoondo - skids meteor code for a living.
+Heedi - Prolly the worst person on this list he has skidded so many different clients(even skidded a roblox cheat xD) cant code a single line of orignal code no one respects him in the community also a wannabe gangster(okay Matthew) coded an Autototem module that detects totems via color(WTF??) https://files.catbox.moe/wuz206.png https://files.catbox.moe/fpu4tp.webp https://files.catbox.moe/wr5fot.png and ngl heedi ur gf lowkey ugly ash 
 
-SplashAni - kid is so dumb he got kicked from his own client for pasting meteor code
+Cpv - Skidded Swift base for his client and skidded the 3arthh4ck listeners into his paste polloshook He also pasted skittys rat.
+
+1nject - Skidded Skittys rat also skids polloshook(privatehook) also has a shit meteor addon.
+
+SplashAni - Kid is so dumb he got kicked from his own client for pasting meteor code.
 
 Cocoapc911 - Oyvey/Phobos fetish lives in his moms basement and skids phobos all day.
 
@@ -21,9 +25,9 @@ Redd - Massive skid who requested that mmmax set up a rat and then became angry 
 
 5nt - Got community service for swatting Sjnez and has been involved in multiple incidents where he's been told by his mom to "shut up" while trying to talk in voice chat. He has released around 10 versions of 5nt.rar, but it's widely known that he's not in control of the project and is essentially owned by sn0whook.
 
-p4nda/zoom - steals every visuals idea from phobos to his glorious cheat "Europa".
+p4nda/zoom - Steals every visuals idea from phobos to his glorious cheat "Europa".
 
-ddev - This dumbass developer claimed that their client, Xuluplus, was custom-made. However, when it was leaked by Master7720, it was discovered to be a poor-quality Oyvey paste. Despite being over 20 years old, he now resorts to coping in people's DMs and lying about everything. He also claims that xuluplus isnt skidded(just look at the utils https://github.com/master7720/XuluPlus/tree/main/src/main/java/me/alpha432/oyvey/util)
+ddev - His dumbahh claims Xuluplus is custom-made. However, when it was leaked by Master7720, it was discovered to be another dog shit quality Oyvey paste. Despite being over 21 years old, he now resorts to coping in people's DMs and lying about everything. He also claims that xuluplus isnt skidded(just look at the utils https://github.com/master7720/XuluPlus/tree/main/src/main/java/me/alpha432/oyvey/util) also says i ratted xuluplus but never showed any proof LEL.
 
 Blizzard - Tritish and ginger.
 
@@ -71,25 +75,25 @@ ObsidianBreaker/accessmodifier364 - Fetish for Wurst+2 (This was awhile ago thou
 
 Catuquei - OyVey Fetish. (Starting to see a pattern with pvpers and them ~~skidding and pasting into an oyvey base~~ "coding" new clients).
 
-Hqrion - This individual falsely took credit for making the leaked 1.7.2 Phobos buildable, when in reality it was his friend Ciruu who did all the work. Additionally, the resulting source code was unstable and prone to crashing, indicating his lack of expertise. He has a history of sabotaging projects he is involved in.
+Hqrion - Got recognition for making the leaked 1.7.2 Phobos buildable. Turns out, it was completely done by his friend Ciruu, and the "SRC" was constantly crashing. He fucks over any project he touches.
 
 Ciruu - Made possibly the most skidded Kami skid to ever exist, "Zispanos Backdoor" back in the day. Currently spending his time on his exit scam, "Abyss" and pasting code from Phobos and Summit clients.
 
-Sjnez - Wannanbe gangster who appears to have an obsession with OyVey and Phobos clients. Skidded various clients to create "Renosense" and was eventually exposed when the client was found to contain a rat. Pasted code from SalHack, including the PacketEvent and event bus, for one of his modules, despite his Phobos base already having one.(also this mf got ratted by his own client)
+Sjnez - Wannanbe gangster who has a weird fetish with OyVey and Phobos clients. Skidded various clients to create "Renosense" and was eventually exposed when the client was found to contain a rat. Pasted code from SalHack, including the PacketEvent and event bus, for one of his modules, despite his Phobos base already having one.(also this mf got ratted by his own client)
 
 Es0teric - Oyvey/Phobos paster, made Gondal.club. (Best client!)
 
-SirMeme - This person is known for renaming various public clients to "FutureX" and attempting to sell them. However, their attempts to promote their work were unsuccessful, and they were generally regarded as a low-quality skidder.
+SirMeme - The single most retarded skidder to ever touch IntelliJ. Renamed various public clients to "FutureX" and tried to sell them. He then joined various Discord servers to promote his dogshit.
 
-Novola/Trental - This person convinced Gopro to make OyVey buildable, a decision that many consider to be godawful. They then proceeded to create the original OyVey paste, called "Zori," which started this horrible trend.
+Novola/Trental - Somehow convinced Gopro to make OyVey buildable (a god awful decision). They proceeded to make the original oyvey paste called "Zori" that started this horrible trend.
 
-RageMachine/ManOnTheMoon - This Individual who aspires to be a developer but lacks proper coding skills. Created a poorly-coded and heavily-pasted client named "Synapse," which was sold to customers who were later left without refunds after the developer pulled a similar act to Pyro. Various real-life crises were faked as excuses for leaving the project.
+RageMachine/ManOnTheMoon -  Retarded wannabe developer (yet refuses to properly learn to code). Created a paste straight from hell called "synapse", Sold it, pulled a pyro, and then faked various real-life crises as excuses for leaving the project. (There were no refunds).
 
 Hollow - Incel and appears to have some knowledge of Java programming language has created a client named "Trollgod". However, it is a Phobos-pasted client and therefore lacks value.
 
 Chardn0l - Reps TrollGod like its the best client, deep throats Hollow's dong, and larps about being a gangster, even though we all know he's a skinny white incel that gets bullied at school.
 
-GL_DONT_CARE - This individual is known for stealing code from the Future client and incorporating it into their own client. Any code they attempt to write themselves is often of poor quality and often results in their client breaking. They have been known to dox individuals who attempt to crack their client, and frequently spam chat with unfunny memes. In addition, they have been caught plagiarizing modules from open-source clients, and instead of giving proper credit, they have attempted to dox those who call them out on their actions, which ultimately fails. It is clear that this individual lacks the ability to engage in constructive arguments. "Pasting gishcode rn" - GL
+GL_DONT_CARE - Steals Future code for a living, any code that he "writes" is dogshit and breaks his client (keep this man far away from new konas base, let auto rewrite that shit). Doxes people who crack his client. Spams chat with unfunny memes and cannot win an arguement if his life depended on it. Also pastes modules from open source clients, refuses to credit, tries to dox instead, and fails at that. "Pasting gishcode rn" - GL
 
 iBikky - An Australian who engages in the act of pasting the Oyvey client, often claiming that their "coords exploit" is powerful when in reality it is simply a poorly executed Command.sendMessage from Oyvey. They also have a history of pasting code from Github, specifically the BowBomb exploit, while claiming that they never paste anything.
 
@@ -99,21 +103,19 @@ SankuGG - Annoying squeeker, and SalHack paster. Begs Gopro for modules.
 
 Fe/Firerug/Watermat/Ongoing - Creator of the "client" Ongoingware. I use the term "client" loosely because in reality, they did not even possess the ability to rename a client. There are DMs of them asking Moo and Gopro how to skid. Essentially, they are like SirMeme, except they are pretty chill and not an incel. They have been involved in various dupe hoaxes and, most recently, collaborated with Max on "Raven". They tricked Max into thinking they could code, then left soon after.
 
-krazzzzzymonkey - The creator of one of the most notorious paid clients is referred to as the "Creator of Catalyst". There have been allegations of pedophilia against this individual. The client they created is essentially a copy/paste and rename of the Gish code, which is sold for $20 (15 Euros). It is cringe-worthy when Kilab compares this terrible software to much superior clients such as RusherHack and Future, as there is no comparison to be made. Anyone with common sense can see that the reskinned GUI is just a cover for the Gish base beneath it. Furthermore, this individual pirates BinSecure and attempts to avoid DMCA takedown notices whenever someone posts their deobfuscated software.
+krazzzzzymonkey - Creator of one of the most nasty paid clients to exist, "Catalyst". Is also a pedo (allegedly). Created a client that is a complete paste/rename of Gish code, and sells it for $20 (15 Euros). I cringe everytime Kilab compares this god-forsaken trash to far superior clients like RusherHack, and Future, as if they are at all on the same level. Anyone with a brain can see past their reskinned gui to the gish base below. Also pirates binsecure, and copes with dmca whenever anyone posts his deobfed shit.
 
 SquidLauncher - The "something is majorly wrong with the offhand" guy (https://www.youtube.com/watch?v=iz-o2mGlwCc).
 
-elarp/Eralp232 - The dumbest person in anarchy has a big ego because of his shitty Discord client archive. He hates on people for skidding, yet he skids himself, and even begs others to skid modules into his shity oyvey skid because he doesn't know how to launch IntelliJ. Additionally, he uses website source code getters to post random clients' website source code, all the while thinking he's a hacker because of that.
+elarp/Eralp232 - The dumbest person in anarchy has a big ego because of his shitty Discord client archive. He hates on people for skidding, yet he skids himself, and even begs others to skid modules into his shity oyvey skid because he doesn't know how to launch IntelliJ. Additionally, he uses website source code getters to post random clients' website source code, all the while thinking he's a hacker because of that. Hes also steals clients that Master7720 has leaked and repped them like hes leaked them...
 
-Skitty - An unskilled ~~developer~~ skidder created a poor-quality client Kami skid named Sn0w. Sn0w is essentially a compilation of any client that Skitty, the skidder, could get his hands on. It was designed for servers with little to no anticheat, such as cc (notice a pattern here?). Additionally, Skitty created a Xulu skid called Skitty hack, which went unnoticed and unused.
+Skitty - Somewhat good dev for his time made a client called sn0w which was prolly one of the best cpvp clients around 1.12 meta but has an awful rep since he was forced to rat users.
 
 Elementars - The definition of a "good paster". Xulu is a paste of almost every decent client around at the time of its creation. It somehow was also a decent client at the same time which is very rare. It was also custom base, but featured a Herocode gui. The code of Xulu is very bad at times and has a lot of quality inconsistancy due do the fact that there are legit 30 different devs code pasted in it 💀. Some classes still have the "Decompiled by Procyon" tag 😂. Has since quit, and now makes youtube videos trying to imitate Dream (down bad 💀).
 
-Heedi - This developer has a reputation for being autistic and has claimed that they no longer use skidded code. However, they are known to copy and paste nearly every addon into their own projects, and have even attempted to add malware into their code.
-
 lefty - attempting to gain popularity by compiling all of the Anticops addons into a single modpack, without any original development or contribution of their own.
 
-0iMax/mmmax - This developer is known for creating clients with mediocre code that don't have much of a following. In their latest project, "Raven," they enlisted a skid named Fe to serve as the public face of the client. They spent months developing a dog-themed client, but it never ended up being used. Beta testers never had the chance to use the client before Max quit. Later, Max revealed that they were tricked by Fe, who claimed to be a skilled coder when in fact they were not.
+0iMax/mmmax -  Developer that makes meh code. He isnt a skid, but he makes mid clients that nobody uses. In his latest project, "Raven" he found a skid named Fe, to be the face of the client. Then He proceded to spend months creating a dog client only for it to never be used. Beta testers never got to use the client, and Max quit. Max later said that he was tricked by Fe, who said he could code when he could not. (I could have told you that 😂💀).
 
 Luscius - Luscius is a YouTuber who creates Minecraft anarchy content and has a following of 10k subscribers. However, his reputation is tarnished due to his shady practices. He promotes his hacked client called "LeuxBackdoor," which is essentially a poor w+2 paste that combines 15 different clients into one. This client has a RAT embedded in it that attempts to gather as much personal information from the user as possible. If someone interferes with him, Luscius will attempt to extort them by using their personal information or expose them in the Discord of his clan, "Leux." Aside from his client's dubious practices, Luscius has also engaged in inappropriate behavior by approaching minors between the ages of 10 and 14 online and asking them to be his "girlfriends/boyfriends." He uses this opportunity to obtain their personal information, but once he gets what he wants, he kicks them out of his Discord clan and pretends like nothing happened. Despite numerous pieces of evidence supporting these claims, Luscius often dismisses them as "bad edits" or makes other excuses to maintain his positive image with his followers. This behavior is concerning and inappropriate.
 
@@ -121,19 +123,18 @@ Eureka - This developer made the worst code of all time, named "Harvest". It con
 
 # Not necessarily a skid
 
-0x22 - This developer copied their entire "Future" client from Exeter. While they have improved as a developer since then, their client still contains outdated Exeter code that they refuse to rewrite, as evidenced by the outdated GUI.Additionally, they have been known to purchase exploits to add to their client, which has raised some concerns about the safety and stability of their product.
+0x22 - Pasted his entire client "Future" from Exeter. It seems he has become a much better developer now, but his client still contains old ass Exeter code that he refuses to rewrite. (just look at the gui 💀) He also buys exploits to put into Future (DUMNPED AF). In recent controversy https://de4uth.org/Pedos/0x22.pdf
 
-Gopro336 - This developer has a reputation for being a mediocre coder who gained notoriety by leeching off the clout of Phobos. They are also responsible for the poor "BUILDABLE_SRC" naming scheme. Despite their lackluster skills, they have a group of followers who treat them like a messiah.Their contributions to the development community are questionable, as they have provided pasters with large amounts of code to copy and paste. They were also responsible for starting the trend of Oyvey and Phobos-based clients, which has had a negative impact on the community.
+Gopro336 - Mediocre coder that went from complete rando to a big namer by leaching clout from Phobos. Father of the god-awful "BUILDABLE_SRC" naming scheme. Has a stan following of skids that treat him like he's the 2nd coming of christ. He continues to degrade the development community by providing pasters with hordes of code to paste from. Single handedly started the epidemic of Oyvey and Phobos based clients.
 
-3arthqu4ke - This developer is well-regarded for their work creating the Phobos/Earthhack client. They initially copied code from Kami, but later switched to using code from Seppuku and Exeter for the GUI, which is why they are on the list. Over time, they have made significant improvements and now create quality modules.Surprisingly, the code for 3arthhck 1.3.1 is very well-built and over-engineered. Overall, this developer has shown a lot of growth and improvement in their work.
+3arthqu4ke -  A Very good developer, creator of Phobos/Earthhack. Skidded Kami at first, and then moved on to skiding Seppuku, and Exeter for the gui. (Thats why hes on the list) Makes decent modules, and has improved lots. 3arthhck 1.3.1's code is suprisingly good, and is very overbuilt (I do kinda get Exeter vibes from it tho).
 
 3000IQPlay - This developer initially began by creating a modified version of Phobos 1.9.0, with his first client named Atrium. This project stemmed from a desire for recognition and frustration with the "GuguPolice and Xulu+ Team+" Following that controversy, he launched another Phobos skid called Experium, aiming to develop a distinctive and superior version of Phobos, as he was dissatisfied with Luigihack, another well-known Phobos skid at the time. The final project he worked on under the name 3000IQPlay is called Trillium. He initiated this client after stepping away from Experium, expressing that it was a way to cope with his loss of passion for that project, stating, "Trillium was just to cope with me not being passionate about Experium.". Than he started to learn how to reverse engineer java. At first he focused on simpler tasks that were easier to deobfuscate since he struggled with complex obfuscated code, since the lack limited knowledge of Java bytecode and ASM. The Raven B- crack which was first project on WalmartSolutions . Before that he only had a few minor repository that were ok on github. He successfully cracked Gothaj 3.0, which turned out to be a huge hit. It received around 60,000 views on YouTube, and many people in Russia were thrilled because they could finally bypass Intave and other protections. This brought him a lot of attention. However, nothing else has matched that success. Hes currently working on a Java RAT that can bypass Kaspersky and other modern antivirus programs like Bitdefender. It’s an interesting project with many high-level access features that could impress users, and most of it can be done without needing admin rights. His second project involves creating security checks to determine if software is being pirated or if its integrity is intact. He started developed this out of passion and for potential use. It’s currently one of the best private security integrity checker by an independant developer, featuring quality code and unique check ideas.
 
-Ionar - The developer of the massively popular Salhack client heavily copied code from both Sepuku and Kami. Later, they continued their work privately to create Summit, which was an awful copy. Even the code they wrote themselves was subpar. They even included a warning on the Git repository advising people not to use it.
-Their latest endeavor was a collaboration with developer Giant Nuker, called Pyro. It quickly became a meme for featuring an AutoCrystal that appeared much faster than it actually was, and later for becoming an exit scam after it was cracked. To this day, version 1.5 of Pyro has not been released, and it has been nearly two years since the release of version 1.4.1. While version 1.5 looks decent, Pyro is still considered a private client. Even if it does eventually get released, 90% of the original Pyro buyers have since quit. 😂.
+Ionar - Developer of the massively popular Salhack client, which pasted hevily from sepuku, and also Kami. Later contiued it privately to make summit which was a awful paste. Even the code he wrote was shitty. He even put a recommendation on the git repo, advising people to not use it. His latest endeavour, a collaboration with developer, Giant Nuker called Pyro, became a meme very quickly for having an AutoCrystal that appeared much faster than it actually was, and later for becoming an exit scam after it was cracked. To this day the next version of pyro, "1.5" has not released, and we are approching 2 years with 1.4.1. 1.5 looks decent, but as for now Pyro is considered a private client. Event if it does release, 90% of the original Pyro buyers have since quit 😂.
 
-Notperry1234567890 - This developer initially copied code from Phobos, which is why they are on this list. However, it should be noted that they have since become a much better coder. Rest in peace, Perry.
+Notperry1234567890 - Skidded phobos(thats why hes on this list, but hes a much better coder now) RIP PERRY
 
-PeterPePem/PeterDev - This developer was known for heavily copying code from Phobos, as well as being the main developer of Catware. They also leaked FutureX to Gopro336. However, it should be noted that they have since become a better coder.
+PeterPePem/PeterDev - Skidded phobos(a lot), Catware Main Dev, the guy who leaked FutureX to Gopro336 and now he is a better coder.
 
 If you are on this list and come crying into the issue or pull requests tab, you're just proving your skid-ness (thats not even a word)
