@@ -109,7 +109,7 @@ SquidLauncher - The "something is majorly wrong with the offhand" guy (https://w
 
 elarp/Eralp232 - The dumbest person in anarchy has a big ego because of his shitty Discord client archive. He hates on people for skidding, yet he skids himself, and even begs others to skid modules into his shity oyvey skid because he doesn't know how to launch IntelliJ. Additionally, he uses website source code getters to post random clients' website source code, all the while thinking he's a hacker because of that. Hes also steals clients that Master7720 has leaked and repped them like hes leaked them...
 
-Skitty - Somewhat good dev for his time made a client called sn0w which was prolly one of the best cpvp clients around 1.12 meta but has an awful rep since he was forced to rat users.
+Skitty - Somewhat good dev for his time made a client called sn0w which was prolly one of the better cpvp clients around 1.12 meta but has an awful rep since he was forced to rat users.
 
 Elementars - The definition of a "good paster". Xulu is a paste of almost every decent client around at the time of its creation. It somehow was also a decent client at the same time which is very rare. It was also custom base, but featured a Herocode gui. The code of Xulu is very bad at times and has a lot of quality inconsistancy due do the fact that there are legit 30 different devs code pasted in it 💀. Some classes still have the "Decompiled by Procyon" tag 😂. Has since quit, and now makes youtube videos trying to imitate Dream (down bad 💀).
 
