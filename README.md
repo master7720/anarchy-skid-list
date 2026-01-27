@@ -5,6 +5,8 @@ I made this as least bias as I can & if I have missed anyone please make a PR (P
 
 Koolotta - DramaAlert Dev, Abyss, and Virtue skidded 13 different clients into one.
 
+Gurtex - Has weird Phobos fetish made a whole client after Phobos with almost no security and half ai coded modules.
+
 ThatN3RD - The developer of Memenight skidded 40 different clients into one.
 
 Bhopped - Skidded discord for HopCord and sold it to buy money for food.
