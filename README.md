@@ -125,6 +125,8 @@ Luscius - Luscius is a YouTuber who creates Minecraft anarchy content and has a 
 
 Eureka - This developer made the worst code of all time, named "Harvest". It contains code that was copied from Meteor, 3arthh4ck, and many other sources.
 
+hazel - Hazel literally thinks she's a top-tier 2b2t client dev 👩‍💻✨, but everyone on the server knows she is nothing more than a massive skid LEL 💀😂. Instead of actually coding her own bypasses 🧠🚫, she just blatantly pasted her entire aura and movement modules straight out of DotGod.CC Sn0w and Future Client ✂️📋. It's downright hilarious watching a total script kiddie try to flex her "custom" codebase when every single line is ripped directly from DotGod.CC 🤡🗑️. JOHN MCSWAG would absolutely laugh her out of the voice channel for trying to pass off this frankenstein skid-ware as an original creation 🗣️🔥. At the end of the day, she’s just another zero-skill paster getting completely exposed on the oldest anarchy server in Minecraft LEL 🧊📉.
+
 # Not necessarily a skid
 
 0x22 - Pasted his entire client "Future" from Exeter. It seems he has become a much better developer now, but his client still contains old ass Exeter code that he refuses to rewrite. (just look at the gui 💀) He also buys exploits to put into Future (DUMNPED AF). In recent controversy https://de4uth.org/Pedos/0x22.pdf
