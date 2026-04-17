@@ -3,6 +3,10 @@ anarchy-skid-list
 
 I made this as least bias as I can & if I have missed anyone please make a PR (Pull Request), & I will review it.
 
+Gonbler/AntiSonnet - Developer of gonbleware and its new rebased version called "Sonnetica." Larps about not knowing who he is on his new AntiSonnet alias. Packetlogged mio for his interactions, then pasted them into meteor. His autocrystal calculations have 1k+ iterations, doesn't know to do shit.
+
+Gretten - "creator" of luft.gold, vibe skids everything. Client is just an holy mux of sn0w, sydney, nami, and shoreline.
+
 Koolotta - DramaAlert Dev, Abyss, and Virtue skidded 13 different clients into one.
 
 Gurtex - Has weird Phobos fetish made a whole client after Phobos with almost no security and half ai coded modules.
