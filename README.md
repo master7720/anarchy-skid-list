@@ -1,13 +1,18 @@
-anarchy-skid-list
+# anarchy-skid-list
 
 
-I made this as least bias as I can & if I have missed anyone please make a PR (Pull Request), & I will review it.
+## I made this as least bias as I can & if I have missed anyone please make a PR (Pull Request), & I will review it.
+
+# 2025/6
+
+Mosawer05/M1l4d95/ArcynFire - Skidded GonbleWare, which is skidded from Mio, Shoreline, Blackout, and managed to vibe paste many things from other clients into his (unsuccessfully) AutoCrystal runs four separate O(n^3) cube sweep per cycle ; `cachedValidPlaceSpots`, `findBestPlacePosition`, `findBestBasePlacePosition`, AND `computeBestPlaceDamageIgnoringCrystals` (which does a full cube sweep to produce one number for a single retarded `if` check). All of this runs on BOTH onTick and onRender at the same time!!!!!! `addExplodableBlocks` (17^3 = 4913 iterations) which is nested inside player loops inside cube loops. `intersectsWithEntities` iterates every world entity per cube position, and a variable that gets assigned as a `Vec3d` then silently reassigned to a `Packet` (`onReceivePacket`). ~10k+ cube scans/tick * damage raycasts * entity scans. This nigga cannot code.
+[See more here (STAR IT.)](https://github.com/Ethylamphetamine/mosawer05-gware)
 
 Fort_Dex - Skidded his meteor addon and put a rat in it.
 
 Gonbler/AntiSonnet - Developer of gonbleware and its new rebased version called "Sonnetica." Larps about not knowing who he is on his new AntiSonnet alias. Packetlogged mio for his interactions, then pasted them into meteor. His autocrystal calculations have 1k+ iterations, doesn't know to do shit.
 
-Gretten - "creator" of luft.gold, vibe skids everything. Client is just an holy mux of sn0w, sydney, nami, and shoreline.
+Gretten - "creator" of luft.gold, vibe skids everything. Client is just an unholy mux of sn0w, sydney, nami, and shoreline.
 
 Koolotta - DramaAlert Dev, Abyss, and Virtue skidded 13 different clients into one.
 
@@ -30,6 +35,8 @@ SplashAni - Kid is so dumb he got kicked from his own client for pasting meteor 
 Cocoapc911 - Oyvey/Phobos fetish lives in his moms basement and skids phobos all day.
 
 x3 - Skidded Bitcoin Core to create X3coin, and also plagiarized the Windows API to create rats (he still denies ratting to this day).
+
+# Pre 2024
  
 Redd - Massive skid who requested that mmmax set up a rat and then became angry and threatened to report mmmax to the police when mmmax configured it to send to only two webhooks during testing. 😂😂😂😂 (also a fake swiper who flexes 1s).
 
@@ -147,4 +154,4 @@ Notperry1234567890 - Skidded phobos(thats why hes on this list, but hes a much b
 
 PeterPePem/PeterDev - Skidded phobos(a lot), Catware Main Dev, the guy who leaked FutureX to Gopro336 and now he is a better coder.
 
-If you are on this list and come crying into the issue or pull requests tab, you're just proving your skid-ness (thats not even a word)
+# If you are on this list and come crying into the issue or pull requests tab, you're just proving your skid nature.
