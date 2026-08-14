@@ -5,6 +5,9 @@
 
 # 2025/6
 
+zPrestige_ — Got kicked out of the anarchy community after becoming widely known for skidding and ratting. His new client Prestige Client is honestly some of the most embarrassing AI slop ive seen. He larps abt inventing modules that have existed in clients for years Just look through the comments on his videos — you will find plenty of users complaining about the client being slow, crashing, or simply not working properly.
+And then there’s his other project, 198 Macros, which he claims can bypass Ocean… [but I’ll let you judge that one for yourself XD.](https://www.youtube.com/watch?v=Li2S0PuLS_I) also if you want some more context on [Prestige ratting](https://www.youtube.com/watch?v=c9Ksi4itVF8)
+
 Mosawer05/M1l4d95/ArcynFire - Skidded GonbleWare, which is skidded from Mio, Shoreline, Blackout, and managed to vibe paste many things from other clients into his (unsuccessfully) AutoCrystal runs four separate O(n^3) cube sweep per cycle ; `cachedValidPlaceSpots`, `findBestPlacePosition`, `findBestBasePlacePosition`, AND `computeBestPlaceDamageIgnoringCrystals` (which does a full cube sweep to produce one number for a single retarded `if` check). All of this runs on BOTH onTick and onRender at the same time!!!!!! `addExplodableBlocks` (17^3 = 4913 iterations) which is nested inside player loops inside cube loops. `intersectsWithEntities` iterates every world entity per cube position, and a variable that gets assigned as a `Vec3d` then silently reassigned to a `Packet` (`onReceivePacket`). ~10k+ cube scans/tick * damage raycasts * entity scans. This nigga cannot code.
 [See more here (STAR IT.)](https://github.com/Ethylamphetamine/mosawer05-gware)
 
@@ -83,8 +86,6 @@ Primooctopus33 - Claims OctoHack's "good" modules are custom then instantly once
 Wolfsurge - Devs one of the worst clients to ever exist. North korean coder. Claims to credit people if he uses their code, but skidded LiquidBounce's custom font renderer (which is under GPL-3.0 btw). Unironically renders his text by calling the method for each letter. Gets bullied at school (not bait).
 
 HausemasterIssue - Can't make 1 line of custom code & 50 clients into 1 with SpiderSense. He's one of the dumbest person to own a keyboard and cannot code for shit. He also hates Future cause 0x banned him or some shit.
-
-zPrestige_ - Mega OyVey fetish & his prestige base is so bad my god. Doesn't know how to use GL_SCISSOR lel.
 
 2b2tbuilder/DerpyJibs - Femboy & North Korean coder.
 
